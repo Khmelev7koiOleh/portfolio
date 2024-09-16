@@ -4,7 +4,8 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
-    <h1 class="text-sm font-bold underline text-black">Hello world!</h1>
+    <div class=""></div>
+    <h1 class="text-sm font-bold underline text-black">Hello world</h1>
   </header>
   <main></main>
   <footer></footer>
